@@ -242,4 +242,4 @@ end else
 res.quePaso:= Fallo;
 end;
 
-(*Martin Olazabal doc: 48899463*)
+(*Martin Olazabal*)

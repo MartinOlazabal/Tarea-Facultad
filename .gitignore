@@ -1,0 +1,13 @@
+# Archivos compilados de Pascal
+*.o
+*.exe
+*.ppu
+*.a
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
